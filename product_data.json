@@ -1,0 +1,40 @@
+{
+    "StoreID": 1,
+    "CountryID": 65,
+    "MasterProductID": 23272,
+    "MasterProductName": "Creative SXFI AMP",
+    "IsSingleProduct": true,
+    "IsComingSoon": false,
+    "SelectedID": 23322,
+    "SelectedFreeItem": null,
+    "Products": [
+        {
+            "ProductID": 23322,
+            "ProductName": "Creative SXFI AMP",
+            "InStock": true,
+            "FreeShipping": true,
+            "ShippingCost": "$0.00",
+            "Available": "In Stock",
+            "Message": null,
+            "FreeItems": [],
+            "IsComingSoon": false,
+            "MinQrdQtyList": [],
+            "Price": 89.0,
+            "PriceFormat": "$99.99",
+            "ListPrice": 219.0,
+            "ListPriceFormat": "$219.00",
+            "MemberPrice": 0,
+            "MemberPriceFormat": null,
+            "TradeIn": false
+        }
+    ],
+    "ProductAttributes": [],
+    "NewMasterProductID": 0,
+    "BundleContent": null,
+    "Gallery": [],
+    "Favourited": false,
+    "Description": "",
+    "Image": "//d287ku8w5owj51.cloudfront.net/images/products/large/pdt_23272.png?width=450&height=350",
+    "FriendlyURL": "/p/amplifiers/creative-sxfi-amp",
+    "FriendlyBuyURL": "/p/amplifiers/creative-sxfi-amp/buy"
+}
